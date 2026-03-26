@@ -1,0 +1,10 @@
+Lecture 1
+
+How Internet works?
+client → browser → server → response → browser shows
+
+>> frontend: html (structure), css (style), js (logic/dynamic)
+
+>> backend: server side logic + data
+
+>> browser: parses html, applies css, runs js
